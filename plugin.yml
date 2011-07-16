@@ -1,0 +1,7 @@
+name: NeoMeteors
+main: me.KillerSmurf.NeoMeteors.NeoMeteors
+version: 0.0.1
+commands:
+    meteor:
+        description: Summon a meteor
+        usage: /meteor
